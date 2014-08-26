@@ -1,24 +1,24 @@
 # General
-*.class
-logs/
-*.log
-.DS_Store
+#*.class
+#logs/
+#*.log
+#.DS_Store
 
 # SBT
-.cache/
-.history/
-.lib/
-dist/*
+#.cache/
+#.history/
+#.lib/
+#dist/*
 target/
-lib_managed/
-src_managed/
-project/boot/
-project/plugins/project/
-temp/
+#lib_managed/
+#src_managed/
+#project/boot/
+#project/plugins/project/
+#temp/
 
 # IntelliJ IDEA
 .idea/.name
-.idea/codeStyleSettings.xml
+#.idea/codeStyleSettings.xml
 .idea/compiler.xml
 .idea/copyright/
 .idea/encodings.xml
@@ -28,8 +28,8 @@ temp/
 .idea/modules/
 .idea/modules.xml
 .idea/sbt.xml
-.idea/scala_settings.xml
+#.idea/scala_settings.xml
 .idea/scopes/
-.idea/uiDesigner.xml
+#.idea/uiDesigner.xml
 .idea/vcs.xml
 .idea/workspace.xml
