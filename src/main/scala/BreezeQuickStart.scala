@@ -33,4 +33,6 @@ object BreezeQuickStart extends App {
 
   //println(y * z)
 
+  class foop {}
+
 }

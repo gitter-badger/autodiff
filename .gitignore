@@ -1,3 +1,11 @@
+# SBT
+target/
+
+# IntelliJ IDEA
+.idea/
+!.idea/runConfigurations/
+!.idea/dictionaries/S
+
 # General
 #*.class
 #logs/
@@ -9,7 +17,7 @@
 #.history/
 #.lib/
 #dist/*
-target/
+#target/
 #lib_managed/
 #src_managed/
 #project/boot/
@@ -17,19 +25,19 @@ target/
 #temp/
 
 # IntelliJ IDEA
-.idea/.name
+#.idea/.name
 #.idea/codeStyleSettings.xml
-.idea/compiler.xml
-.idea/copyright/
-.idea/encodings.xml
-.idea/highlighting.xml
-.idea/libraries/
-.idea/misc.xml
-.idea/modules/
-.idea/modules.xml
-.idea/sbt.xml
+#.idea/compiler.xml
+#.idea/copyright/
+#.idea/encodings.xml
+#.idea/highlighting.xml
+#.idea/libraries/
+#.idea/misc.xml
+#.idea/modules/
+#.idea/modules.xml
+#.idea/sbt.xml
 #.idea/scala_settings.xml
-.idea/scopes/
+#.idea/scopes/
 #.idea/uiDesigner.xml
-.idea/vcs.xml
-.idea/workspace.xml
+#.idea/vcs.xml
+#.idea/workspace.xml
